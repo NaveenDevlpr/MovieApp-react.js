@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(25, 24, 37);
+}
+
+::-webkit-scrollbar {
+    width: 12px; 
+    background:transparent;
+  
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(227, 132, 255); /* Set the background color */
+    border-radius: 10px; /* Add rounded corners to the thumb */
+}
